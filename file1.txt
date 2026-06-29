@@ -1,6 +1,0 @@
-hello worledhello 
-<<<<<<< HEAD
-hello
-=======
-world
->>>>>>> 020eb12 (added from local)
